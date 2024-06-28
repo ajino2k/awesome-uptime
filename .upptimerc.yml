@@ -9,7 +9,7 @@ sites:
     url: https://shop.vnggames.com
   - name: VNGGames Mainsite
     url: https://vnggames.com
-   - name: VNGGames Support
+  - name: VNGGames Support
     url: https://support.vnggames.com
     
 status-website:
