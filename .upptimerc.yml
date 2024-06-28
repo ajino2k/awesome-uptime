@@ -5,6 +5,16 @@ repo: awesome-uptime # The name of this repository
 sites:
   - name: VNGGames Rewards
     url: https://rewards.vnggames.com
+    
+  - name: VNGGames WebShop
+    url: https://shop.vnggames.com
+    
+  - name: VNGGames Mainsite
+    url: https://vnggames.com
+
+   - name: VNGGames Support
+    url: https://support.vnggames.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
