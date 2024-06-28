@@ -23,7 +23,7 @@ status-website:
   introTitle: ""
   introMessage: 
   navbar:
-    - title: 
+    - title: status
       href: /
     
 
