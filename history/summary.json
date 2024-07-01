@@ -22,18 +22,20 @@
     "url": "https://shop.vnggames.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.vnggames.com.ico",
     "slug": "vng-games-web-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2173,
-    "timeDay": 1775,
-    "timeWeek": 2173,
-    "timeMonth": 2173,
-    "timeYear": 2173,
-    "dailyMinutesDown": {}
+    "time": 2717,
+    "timeDay": 4692,
+    "timeWeek": 2717,
+    "timeMonth": 2717,
+    "timeYear": 2717,
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "VNGGames Mainsite",
