@@ -25,6 +25,8 @@ status-website:
     - title: status
       href: /
     
-
+i18n:
+  footer: This page is 
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
