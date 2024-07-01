@@ -18,7 +18,7 @@ status-website:
   baseUrl: /awesome-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  cname: upptime.js.org
+  cname: ajino2k.github.io
   introTitle: ""
   introMessage: 
   navbar:
