@@ -1,61 +1,5 @@
 [
   {
-    "name": "VNGGames Rewards",
-    "url": "https://rewards.vnggames.com",
-    "icon": "https://icons.duckduckgo.com/ip3/rewards.vnggames.com.ico",
-    "slug": "vng-games-rewards",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1737,
-    "timeDay": 1808,
-    "timeWeek": 1737,
-    "timeMonth": 1737,
-    "timeYear": 1737,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "VNGGames WebShop",
-    "url": "https://shop.vnggames.com",
-    "icon": "https://icons.duckduckgo.com/ip3/shop.vnggames.com.ico",
-    "slug": "vng-games-web-shop",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 2428,
-    "timeDay": 2682,
-    "timeWeek": 2428,
-    "timeMonth": 2428,
-    "timeYear": 2428,
-    "dailyMinutesDown": {
-      "2024-07-01": 24
-    }
-  },
-  {
-    "name": "VNGGames Mainsite",
-    "url": "https://vnggames.com",
-    "icon": "https://icons.duckduckgo.com/ip3/vnggames.com.ico",
-    "slug": "vng-games-mainsite",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2798,
-    "timeDay": 2948,
-    "timeWeek": 2798,
-    "timeMonth": 2798,
-    "timeYear": 2798,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "VNGGames Support",
     "url": "https://support.vnggames.com",
     "icon": "https://icons.duckduckgo.com/ip3/support.vnggames.com.ico",
@@ -66,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 976,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 998,
+    "timeDay": 1007,
+    "timeWeek": 998,
+    "timeMonth": 998,
+    "timeYear": 998,
     "dailyMinutesDown": {}
   }
 ]
